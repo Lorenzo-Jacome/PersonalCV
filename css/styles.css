@@ -3,13 +3,29 @@ ul{
   padding-left: 0;
 }
 
+#profile h1{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 600;
+}
+
+#profile h2{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 500;
+}
+
+#profile img{
+  border-radius: 50%;
+}
+
 #nav-bar{
   background-color: #304145;
-
+  font-family: 'Montserrat', sans-serif;
+  padding: 0.4% 0;
 }
 
 #profile{
-  background-image: url(../images/tempbg.jpg);
+  background-image: url(../images/banner.png);
+  color: #fff;
 }
 
 #experience{
@@ -21,8 +37,16 @@ ul{
   background-color: #304145;
 }
 
+#contact{
+  text-align: center;
+}
+
+#projects-carousel{
+  padding: 3%;
+}
+
 .info-con{
-  padding: 2%;
+  padding: 5%;
 }
 
 .exp-con{
@@ -38,4 +62,16 @@ ul{
 .exp-icon{
   color: #304145;
   margin-bottom: 1rem;
+}
+
+.prj-title{
+  margin-bottom: 1rem;
+}
+
+.cntct-icon{
+  margin: 2rem;
+}
+
+.cntct-title{
+  margin-top: 2rem;
 }
