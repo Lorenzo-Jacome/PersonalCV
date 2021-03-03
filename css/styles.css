@@ -84,7 +84,25 @@ ul{
 }
 
 .cntct-icon{
+  color: #304145;
   margin: 2rem;
+  padding: 0.5%;
+  border-style: solid;
+  border-width: 5px 5px 10px 5px;
+  border-color: #304145;
+  border-radius: 15px;
+}
+
+.cntct-icon:hover{
+  color: #1CB0F6;
+  border-color: #1CB0F6;
+  color: #1CB0F6;
+}
+
+.cntct-icon:active{
+  color: #168cc4;
+  border-color: #168cc4;
+  color: #168cc4;
 }
 
 .cntct-title{

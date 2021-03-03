@@ -1,0 +1,114 @@
+ul{
+  list-style-type: none;
+  padding-left: 0;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 600;
+}
+
+#profile h1{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 600;
+}
+
+#profile h2{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 500;
+}
+
+#profile img{
+  border-radius: 50%;
+}
+
+#experience h3{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 500;
+}
+
+#nav-bar{
+  background-color: #304145;
+  font-family: 'Montserrat', sans-serif;
+  padding: 0.4% 0;
+}
+
+#profile{
+  color: #fff;
+}
+
+#experience{
+  text-align: center;
+}
+
+#projects{
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+  background-color: #304145;
+  color: #fff;
+}
+
+#contact{
+  text-align: center;
+}
+
+#projects-carousel{
+  padding: 3%;
+}
+
+.info-con{
+  background-image: url(../images/banner-blur.png);
+
+  padding: 5%;
+}
+
+.exp-con{
+  padding-top: 5%;
+  padding-bottom: 2%;
+}
+
+.exp-header{
+  margin-bottom: 2rem;
+  color: #304145;
+}
+
+.exp-icon:hover{
+  color: #BD3147;
+}
+
+.exp-icon{
+  color: #304145;
+  margin-bottom: 1rem;
+}
+
+.prj-title{
+  margin-bottom: 1rem;
+  font-weight: 600;
+}
+
+.cntct-icon{
+  color: #304145;
+  margin: 2rem;
+  padding: 0.5%;
+  border-style: solid;
+  border-width: 5px 5px 10px 5px;
+  border-color: #304145;
+  border-radius: 15px;
+}
+
+.cntct-icon:hover{
+  color: #1CB0F6;
+  border-color: #1CB0F6;
+  color: #1CB0F6;
+}
+
+.cntct-icon:active{
+  color: #168cc4;
+  border-color: #168cc4;
+  color: #168cc4;
+}
+
+.cntct-title{
+  margin-top: 2rem;
+}
+.description{
+  padding-left: 15%;
+  padding-right: 15%;
+}
